@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Images.xcassets">
+   </FileRef>
+   <FileRef
       location = "self:radioPlayer.xcodeproj">
    </FileRef>
 </Workspace>
