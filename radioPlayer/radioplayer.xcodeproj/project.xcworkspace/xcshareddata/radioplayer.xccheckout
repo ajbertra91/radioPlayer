@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>761E72D6-A9D8-4F2F-8A92-A94F7CE8DC6E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E1A77440C370054EA2E103D6C1FA6537F33BE390</key>
+		<string>https://github.com/ajbertra91/radioPlayer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>radioplayer/radioplayer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E1A77440C370054EA2E103D6C1FA6537F33BE390</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ajbertra91/radioPlayer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E1A77440C370054EA2E103D6C1FA6537F33BE390</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E1A77440C370054EA2E103D6C1FA6537F33BE390</string>
+			<key>IDESourceControlWCCName</key>
+			<string>radioPlayer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
